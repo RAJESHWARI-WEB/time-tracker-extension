@@ -14,7 +14,7 @@ CODETECH IT SOLUTIONS PROJECT TASK-4
 
 *MENTOR*: NEELA SANTOSH
 
-*DESCRIPTION*: Description:
+*DESCRIPTION*: 
 
 The Time Tracker & Productivity Analytics Chrome extension is a productivity tool designed to monitor and evaluate how users spend their time across different websites. Built using web technologies such as JavaScript, HTML, and the Chrome Extensions API, this project helps users stay mindful of their online habits by categorizing websites and tracking time spent on each.
 
@@ -60,3 +60,4 @@ The Time Tracker & Productivity Analytics Chrome Extension is a practical and im
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/dcc9fd0f-cad2-44a6-9d57-74c61d962fe9)
